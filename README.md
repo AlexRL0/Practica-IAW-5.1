@@ -13,4 +13,3 @@ sudo docker compose down -v
 
 ![5.1-parte-1](imagenes/docker-compose-5.1-parte1.png)
 ![5.1-parte-2](imagenes/docker-compose-5.1-parte2.png)
-![5.1-parte-3](imagenes/docker-compose-5.1-parte3.png)
